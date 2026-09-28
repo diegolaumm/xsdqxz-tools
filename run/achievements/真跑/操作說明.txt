@@ -1,0 +1,4 @@
+需要先將runrun.py
+依照資料位置修改
+# 這是你剛才切出小圖的資料夾
+FRAMES_FOLDER = r"D:\Users\user\Desktop\TT\動起來\成果.............修改
